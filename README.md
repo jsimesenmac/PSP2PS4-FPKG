@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/Nazky/PS22PS4-GUI/blob/main/PS22PS4-GUI/Ressource/ps2_icon_by_natstrodamus_deqcdvd.ico" width="100px"</p>
 <h1 align="center">PSP Classic Game Emulators for Ps4</h1>
 <h2 align="center">A easy to use PSP to PS4 PKG maker</h2>
 
