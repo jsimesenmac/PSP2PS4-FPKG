@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/jsimesenmac/psp-fpkg/blob/main/ico/keqing.png" width="100px"</p>
+<p align="center"><img src="https://github.com/jsimesenmac/psp-fpkg/blob/main/ico/keqing.png" width="150px"</p>
 <h1 align="center">PSP Classic Game Emulators for Ps4</h1>
 <h2 align="center">A easy to use PSP to PS4 PKG maker</h2>
 
